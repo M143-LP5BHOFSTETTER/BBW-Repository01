@@ -1,0 +1,93 @@
+2020-06-26T09:02:49.690Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-26T09:02:49.691Z - info: [ui] [AppStore] found account: fc039393 (fc039393)
+2020-06-26T09:02:50.359Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-26T09:02:50.360Z - info: [ui] execPath: 'C:\Users\BrunoHofstetter\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-26T09:02:52.097Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.924s)
+2020-06-26T09:02:53.047Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.451s)
+2020-06-26T09:32:59.996Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.060s)
+2020-06-26T09:35:23.219Z - warn: [ui] fetchRepository: ' M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC ' returned a 404
+2020-06-26T09:35:23.359Z - warn: [ui] fetchRepository: ' M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC ' returned a 404
+2020-06-26T09:35:23.362Z - info: [ui] [AppStore.getAccountForRemoteURL] no generic credentials found for 'M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC'
+2020-06-26T09:35:23.364Z - info: [ui] proxy url not resolved, protocol not supported
+2020-06-26T09:35:23.470Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC ` exited with an unexpected code: 128.
+stderr:
+fatal: repository 'M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC' does not exist
+
+2020-06-26T09:35:38.469Z - info: [ui] [AppStore.getAccountForRemoteURL] no generic credentials found for 'M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC'
+2020-06-26T09:35:38.469Z - info: [ui] proxy url not resolved, protocol not supported
+2020-06-26T09:35:38.563Z - error: [ui] `git -c credential.helper= clone --recursive --progress -- M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC ` exited with an unexpected code: 128.
+stderr:
+fatal: repository 'M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC' does not exist
+
+2020-06-26T09:38:08.864Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC.git - fc039393 (has token)
+2020-06-26T09:38:11.936Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC.git C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC (took 2.989s)
+2020-06-26T09:38:12.010Z - info: [ui] [AppStore] adding repository at C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC to store
+2020-06-26T09:38:12.396Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T09:38:16.014Z - info: [ui] Executing isUsingLFS: git lfs track (took 3.901s)
+2020-06-26T09:38:55.529Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T09:38:56.959Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.344s)
+2020-06-26T09:39:10.585Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T09:49:51.457Z - info: [ui] Background fetch for 2 repositories took 0.945sec
+2020-06-26T09:55:53.664Z - info: [ui] [Timing] Action 'create branch' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.182s
+2020-06-26T09:56:06.226Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T09:56:06.838Z - info: [ui] [Timing] Action 'stash and checkout' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.614s
+2020-06-26T09:56:12.592Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.000s
+2020-06-26T09:56:15.692Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T09:56:16.234Z - info: [ui] [Timing] Action 'stash and checkout' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 1.112s
+2020-06-26T09:56:20.944Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T09:56:21.478Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.527s
+2020-06-26T09:57:26.167Z - info: [ui] [Timing] Action 'create tag' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.202s
+2020-06-26T10:04:52.304Z - info: [ui] Background fetch for 2 repositories took 1.806sec
+2020-06-26T10:09:16.127Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.592s)
+2020-06-26T10:11:00.841Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:11:07.275Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin AddNewCode-JDBCSamples Tag01 --set-upstream --progress (took 6.346s)
+2020-06-26T10:11:08.721Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.356s)
+2020-06-26T10:11:17.434Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T10:12:10.207Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:12:11.186Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.979s
+2020-06-26T10:12:12.543Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:12:14.005Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.346s)
+2020-06-26T10:12:21.432Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:12:21.941Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.507s
+2020-06-26T10:12:27.194Z - info: [ui] [AppStore. _popStashEntry] popped stash with commit id 54b9c6828abd861be1383e163bcc009e6c0c301f
+2020-06-26T10:12:34.771Z - info: [ui] [Timing] Action 'create commit' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 1.112s
+2020-06-26T10:12:36.392Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:12:40.910Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin AddNewCode-JDBCSamples:AddNewCode-JDBCSamples --progress (took 4.412s)
+2020-06-26T10:12:42.412Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.414s)
+2020-06-26T10:12:59.350Z - info: [main] opening in browser: https://github.com/M143-LP5BHOFSTETTER/BBW-Repository01-PUBLIC/pull/new/AddNewCode-JDBCSamples
+2020-06-26T10:14:48.111Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:14:49.679Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.461s)
+2020-06-26T10:15:05.734Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:15:06.507Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.772s
+2020-06-26T10:15:07.598Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:15:09.239Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.526s)
+2020-06-26T10:19:51.712Z - info: [ui] Background fetch for 2 repositories took 1.212sec
+2020-06-26T10:34:51.542Z - info: [ui] Background fetch for 2 repositories took 1.049sec
+2020-06-26T10:46:23.715Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.492s)
+2020-06-26T10:49:51.525Z - info: [ui] Background fetch for 2 repositories took 1.030sec
+2020-06-26T10:50:12.012Z - info: [ui] [BranchPruner] Pruning 0 branches that have been merged into the default branch, master (5bd583af50a35b52ce6fc689e9fbedf3953a0243), from 'BBW-Repository01-PUBLIC
+2020-06-26T10:50:19.997Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:50:21.662Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.576s)
+2020-06-26T10:50:34.552Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T10:51:10.188Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:51:10.726Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 0.538s
+2020-06-26T10:51:13.832Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:51:16.011Z - info: [ui] Executing getBranches: git for-each-ref --format=%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(objectname:short)%00%(author)%00%(committer)%00%(symref)%00%1F refs/heads refs/remotes (took 1.218s)
+2020-06-26T10:51:16.114Z - info: [ui] Executing getRecentBranches: git log -g --no-abbrev-commit --pretty=oneline HEAD -n 2500 -- (took 1.308s)
+2020-06-26T10:51:16.732Z - info: [ui] [Timing] Action 'checkout branch from list' for 'm143-lp5bhofstetter/BBW-Repository01-PUBLIC' took 2.900s
+2020-06-26T10:51:33.681Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: BBW-Repository01-PUBLIC - fc039393 (has token)
+2020-06-26T10:51:35.159Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.387s)
+2020-06-26T10:51:36.731Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.485s)
+2020-06-26T11:28:03.958Z - info: [ui] [AppStore] loading 2 repositories from store
+2020-06-26T11:28:03.958Z - info: [ui] [AppStore] found account: fc039393 (fc039393)
+2020-06-26T11:28:04.614Z - info: [ui] launching: 2.5.3 (Windows 10.0.18363)
+2020-06-26T11:28:04.614Z - info: [ui] execPath: 'C:\Users\BrunoHofstetter\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-26T11:28:06.161Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.710s)
+2020-06-26T11:28:26.748Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.444s)
+2020-06-26T11:30:05.370Z - info: [ui] Background fetch for 2 repositories took 1.318sec
+2020-06-26T11:45:06.696Z - info: [ui] Background fetch for 2 repositories took 1.310sec
+2020-06-26T12:00:06.481Z - info: [ui] Background fetch for 2 repositories took 1.104sec
+2020-06-26T12:00:37.940Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.370s)
+2020-06-26T12:15:06.805Z - info: [ui] Background fetch for 2 repositories took 1.431sec
+2020-06-26T12:30:06.580Z - info: [ui] Background fetch for 2 repositories took 1.209sec
+2020-06-26T12:32:49.023Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.393s)

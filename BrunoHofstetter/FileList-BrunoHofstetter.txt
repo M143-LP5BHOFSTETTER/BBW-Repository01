@@ -1,0 +1,649 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3A70-316D
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC
+
+26.06.2020  12:51    <DIR>          .
+26.06.2020  12:51    <DIR>          ..
+26.06.2020  13:32    <DIR>          BrunoHofstetter
+26.06.2020  12:51    <DIR>          Java_File_IO_Examples
+26.06.2020  12:12    <DIR>          Java_JDBC_Examples
+26.06.2020  11:38                66 README.md
+26.06.2020  11:38                22 Test01.txt
+               2 File(s)             88 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git
+
+26.06.2020  12:12                55 COMMIT_EDITMSG
+26.06.2020  12:11               447 config
+26.06.2020  11:38                73 description
+26.06.2020  14:32               277 FETCH_HEAD
+26.06.2020  12:51                23 HEAD
+26.06.2020  11:38    <DIR>          hooks
+26.06.2020  12:51             5'533 index
+26.06.2020  11:38    <DIR>          info
+26.06.2020  11:38    <DIR>          logs
+26.06.2020  12:14    <DIR>          objects
+26.06.2020  11:56                41 ORIG_HEAD
+26.06.2020  11:38               114 packed-refs
+26.06.2020  12:12    <DIR>          refs
+               8 File(s)          6'563 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\hooks
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  11:38               478 applypatch-msg.sample
+26.06.2020  11:38               896 commit-msg.sample
+26.06.2020  11:38             3'327 fsmonitor-watchman.sample
+26.06.2020  11:38               189 post-update.sample
+26.06.2020  11:38               424 pre-applypatch.sample
+26.06.2020  11:38             1'638 pre-commit.sample
+26.06.2020  11:38             1'348 pre-push.sample
+26.06.2020  11:38             4'898 pre-rebase.sample
+26.06.2020  11:38               544 pre-receive.sample
+26.06.2020  11:38             1'492 prepare-commit-msg.sample
+26.06.2020  11:38             3'610 update.sample
+              11 File(s)         18'844 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\info
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  11:38               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\logs
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  12:51             2'041 HEAD
+26.06.2020  12:12    <DIR>          refs
+               1 File(s)          2'041 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\logs\refs
+
+26.06.2020  12:12    <DIR>          .
+26.06.2020  12:12    <DIR>          ..
+26.06.2020  11:55    <DIR>          heads
+26.06.2020  11:38    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\logs\refs\heads
+
+26.06.2020  11:55    <DIR>          .
+26.06.2020  11:55    <DIR>          ..
+26.06.2020  12:12               322 AddNewCode-JDBCSamples
+26.06.2020  12:14               519 master
+               2 File(s)            841 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\logs\refs\remotes
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  12:11    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\logs\refs\remotes\origin
+
+26.06.2020  12:11    <DIR>          .
+26.06.2020  12:11    <DIR>          ..
+26.06.2020  12:12               298 AddNewCode-JDBCSamples
+26.06.2020  11:38               213 HEAD
+26.06.2020  12:14               360 master
+               3 File(s)            871 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects
+
+26.06.2020  12:14    <DIR>          .
+26.06.2020  12:14    <DIR>          ..
+26.06.2020  12:09    <DIR>          00
+26.06.2020  12:09    <DIR>          04
+26.06.2020  12:09    <DIR>          06
+26.06.2020  11:56    <DIR>          0f
+26.06.2020  12:09    <DIR>          11
+26.06.2020  11:56    <DIR>          15
+26.06.2020  12:09    <DIR>          19
+26.06.2020  11:56    <DIR>          1d
+26.06.2020  12:09    <DIR>          28
+26.06.2020  11:56    <DIR>          29
+26.06.2020  11:56    <DIR>          34
+26.06.2020  12:09    <DIR>          35
+26.06.2020  12:09    <DIR>          36
+26.06.2020  12:09    <DIR>          37
+26.06.2020  12:09    <DIR>          44
+26.06.2020  11:56    <DIR>          46
+26.06.2020  12:12    <DIR>          4e
+26.06.2020  12:09    <DIR>          50
+26.06.2020  11:56    <DIR>          54
+26.06.2020  11:56    <DIR>          55
+26.06.2020  11:56    <DIR>          59
+26.06.2020  12:14    <DIR>          5b
+26.06.2020  12:09    <DIR>          5c
+26.06.2020  12:09    <DIR>          5e
+26.06.2020  12:09    <DIR>          68
+26.06.2020  11:56    <DIR>          6d
+26.06.2020  12:09    <DIR>          6f
+26.06.2020  11:56    <DIR>          72
+26.06.2020  12:09    <DIR>          77
+26.06.2020  11:56    <DIR>          82
+26.06.2020  11:56    <DIR>          83
+26.06.2020  12:09    <DIR>          8b
+26.06.2020  11:56    <DIR>          8e
+26.06.2020  12:09    <DIR>          98
+26.06.2020  12:09    <DIR>          a5
+26.06.2020  12:09    <DIR>          ab
+26.06.2020  12:09    <DIR>          b6
+26.06.2020  11:56    <DIR>          b8
+26.06.2020  12:09    <DIR>          c0
+26.06.2020  12:09    <DIR>          cc
+26.06.2020  11:56    <DIR>          d0
+26.06.2020  11:56    <DIR>          d1
+26.06.2020  11:56    <DIR>          de
+26.06.2020  11:57    <DIR>          e3
+26.06.2020  12:09    <DIR>          e7
+26.06.2020  12:09    <DIR>          e8
+26.06.2020  11:56    <DIR>          e9
+26.06.2020  11:56    <DIR>          ea
+26.06.2020  12:14    <DIR>          ee
+26.06.2020  12:09    <DIR>          ef
+26.06.2020  11:56    <DIR>          f3
+26.06.2020  11:56    <DIR>          fc
+26.06.2020  11:38    <DIR>          info
+26.06.2020  11:38    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\00
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               439 cab17898428458e1460c43501bec6984b32241
+               1 File(s)            439 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\04
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:12               575 2ed705cba8f4177da8cceee128fd8796e09e42
+26.06.2020  12:09               339 38ca8565a753bfe75f70d74f57b8a1397f0c57
+26.06.2020  12:12               692 dfc7caa2f9068c3e90c2efcc4cc0aaa95e737b
+               3 File(s)          1'606 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\06
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               219 b377d114cf2138d4b005edbc2774a0df14c57a
+               1 File(s)            219 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\0f
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               363 494e8e74fce15bf201f91f88d0feeec86c807c
+               1 File(s)            363 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\11
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               387 ab8596664d1c56ec87f1d746f6da8992dfef9a
+               1 File(s)            387 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\15
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               659 a438c83ba1278b2d46665bb54c5b901de8b17a
+26.06.2020  12:12               818 c19dccfd275c0410f3c4f9a093d999616480cd
+               2 File(s)          1'477 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\19
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               458 8b3b47a98a11dd04d34d34e89c85e44b81da63
+               1 File(s)            458 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\1d
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               153 15212668c52d2f1475bda23534d87206bcf147
+               1 File(s)            153 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\28
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               451 6b3d7ff1dc533c77101c4b473a65e768ab0ce5
+               1 File(s)            451 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\29
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  11:56               199 f473fbbb57264e2e2e5308cfe06ada6e30c2e7
+               1 File(s)            199 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\34
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               597 422d92cd8be93c01ba675f741649c5fc52bab6
+               1 File(s)            597 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\35
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               137 b08494a144c80795a6e8573bfeeec080c45c73
+               1 File(s)            137 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\36
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               321 d6b0734d116b20213467b9b56e9b8f7d628a61
+               1 File(s)            321 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\37
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               378 7f4c2100b4aa8b740f006b44f70bdf3abc04da
+               1 File(s)            378 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\44
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:12               529 4300b7d02034d4280471c785d94dc558e0d343
+26.06.2020  12:09               279 484a06fdcdd1cb187fda2d25837ded86b76187
+               2 File(s)            808 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\46
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               613 668799654e2cfbbecdfa38bd131d55c8d9be9d
+               1 File(s)            613 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\4e
+
+26.06.2020  12:12    <DIR>          .
+26.06.2020  12:12    <DIR>          ..
+26.06.2020  12:12               197 6e538f701354061ec3e02222abb72bb2f530b1
+               1 File(s)            197 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\50
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               326 52ccd9677a3513cde3ac031f7790d436535d9b
+               1 File(s)            326 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\54
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  11:56               226 b9c6828abd861be1383e163bcc009e6c0c301f
+               1 File(s)            226 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\55
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               585 e9aeb05392f42cb7782d5d08bae6b941b15348
+               1 File(s)            585 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\59
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               624 d556b2a4d4be36b1edb24343d7f2b1ad9273ef
+               1 File(s)            624 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\5b
+
+26.06.2020  12:14    <DIR>          .
+26.06.2020  12:14    <DIR>          ..
+26.06.2020  12:14               641 d583af50a35b52ce6fc689e9fbedf3953a0243
+               1 File(s)            641 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\5c
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               512 bb75b7d4697132c00f6fb0ee41bfd617212861
+               1 File(s)            512 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\5e
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               293 2e3e91f375356dc1f2d171863e721fd381defc
+               1 File(s)            293 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\68
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               443 5e22f50f5e5dcb44fa358c13656ca1dc281123
+               1 File(s)            443 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\6d
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               599 9cff1b65240a245ce2e6d44e37d1b30f3b8f20
+               1 File(s)            599 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\6f
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               208 8be889272c0029ce4db56551a77404187c4c35
+               1 File(s)            208 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\72
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               616 bdabd77a8a6336d792a2e79701c597577ce624
+               1 File(s)            616 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\77
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               374 296f5b0c954a530d094c52f39e56b062421454
+26.06.2020  12:09               211 c5be20bfe255d4599f645e60ec9719d3282b85
+               2 File(s)            585 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\82
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               613 23a82138c0f78ef489c5f7af8dbca05c8f4c5e
+               1 File(s)            613 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\83
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               531 1152a6061ec0b9e84746d5f35e52f1b1f0575c
+               1 File(s)            531 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\8b
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               338 88e8fa7c56cbb1b708513cd5a6021fbad68116
+               1 File(s)            338 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\8e
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               648 9fb836993101f9ac1a1f3deca3f4aafbf7d902
+               1 File(s)            648 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\98
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               761 e99dcd867335075fbd486e911df0018da2b505
+               1 File(s)            761 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\a5
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               446 8d051d018a7baf81b5af92b66f2787e63ce061
+               1 File(s)            446 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\ab
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               437 b7fbb490df0c5a7c16948ef0fc0311cf7b7948
+               1 File(s)            437 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\b6
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               373 ddaaa3470e43e63b5a3d6d72fea238a45b9afa
+               1 File(s)            373 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\b8
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               631 e656b9c617d667fb874b06b1d8eea2eecdb103
+               1 File(s)            631 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\c0
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               384 0866581614b40dd07a1867d63147a260ec7f2b
+               1 File(s)            384 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\cc
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               179 2cca204d461bd28fcba06bf6b83336a00ff2e8
+26.06.2020  12:09               186 a828b183be2d12380a06b847f6915bc68aed4f
+               2 File(s)            365 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\d0
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               558 2a34ee7cec61c73f549d83141681816400e7b3
+               1 File(s)            558 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\d1
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               466 f992e17271c5221d820b014e4219c07169178f
+               1 File(s)            466 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\de
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               134 6c40e0f9d3e0e91dcf35f89d14ad722fabaaf0
+               1 File(s)            134 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\e3
+
+26.06.2020  11:57    <DIR>          .
+26.06.2020  11:57    <DIR>          ..
+26.06.2020  11:57               128 8f30bb1c1fa614ee954aac1992a2ae62291929
+               1 File(s)            128 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\e7
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               347 4822e9bf89a96cfbb0c3597dbf2d7d24ea99f1
+               1 File(s)            347 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\e8
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               277 6998533a42ff7832c00851303dcc2ee119ee8f
+               1 File(s)            277 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\e9
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               399 7ad1957707f8ffd7085a5169c5217410d20f85
+               1 File(s)            399 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\ea
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               633 2b7d9bc59fda3fe0560718376048ec8de28a4f
+               1 File(s)            633 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\ee
+
+26.06.2020  12:14    <DIR>          .
+26.06.2020  12:14    <DIR>          ..
+26.06.2020  12:14               167 e69bb183370d69505dc7c5a1980daacb470be5
+26.06.2020  12:12               600 f8e17c70d8ebec517d1c82f7065fceab3c5417
+               2 File(s)            767 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\ef
+
+26.06.2020  12:09    <DIR>          .
+26.06.2020  12:09    <DIR>          ..
+26.06.2020  12:09               865 d19c23212a30bf05fd5a0ae25eec764965cce5
+               1 File(s)            865 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\f3
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               493 60f679be4b9567595787548fb1ed16872fcd2b
+               1 File(s)            493 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\fc
+
+26.06.2020  11:56    <DIR>          .
+26.06.2020  11:56    <DIR>          ..
+26.06.2020  12:12               720 595b0945f87198f8eca8804830705417f2c4b9
+               1 File(s)            720 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\info
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\objects\pack
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  11:38             1'240 pack-4580c5af812b974f26d52f2dfb705c48f8707ed5.idx
+26.06.2020  11:38             1'321 pack-4580c5af812b974f26d52f2dfb705c48f8707ed5.pack
+               2 File(s)          2'561 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\refs
+
+26.06.2020  12:12    <DIR>          .
+26.06.2020  12:12    <DIR>          ..
+26.06.2020  12:14    <DIR>          heads
+26.06.2020  11:38    <DIR>          remotes
+26.06.2020  11:57    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\refs\heads
+
+26.06.2020  12:14    <DIR>          .
+26.06.2020  12:14    <DIR>          ..
+26.06.2020  12:12                41 AddNewCode-JDBCSamples
+26.06.2020  12:14                41 master
+               2 File(s)             82 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\refs\remotes
+
+26.06.2020  11:38    <DIR>          .
+26.06.2020  11:38    <DIR>          ..
+26.06.2020  12:51    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\refs\remotes\origin
+
+26.06.2020  12:51    <DIR>          .
+26.06.2020  12:51    <DIR>          ..
+26.06.2020  12:12                41 AddNewCode-JDBCSamples
+26.06.2020  11:38                32 HEAD
+26.06.2020  12:14                41 master
+               3 File(s)            114 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\.git\refs\tags
+
+26.06.2020  11:57    <DIR>          .
+26.06.2020  11:57    <DIR>          ..
+26.06.2020  11:57                41 Tag01
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\BrunoHofstetter
+
+26.06.2020  13:32    <DIR>          .
+26.06.2020  13:32    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\Java_File_IO_Examples
+
+26.06.2020  12:51    <DIR>          .
+26.06.2020  12:51    <DIR>          ..
+26.06.2020  12:51             1'233 @README.txt
+26.06.2020  12:51               838 ByteArrToInputStream.java
+26.06.2020  12:51             1'055 ByteWriteToFile.java
+26.06.2020  12:51               601 ClassLoaderFileLoading.java
+26.06.2020  12:51               327 FileListFromFolder.java
+26.06.2020  12:51               328 FilesListFromFolder.java
+26.06.2020  12:51             1'005 FileToByteArray.java
+26.06.2020  12:51             1'056 MyByteArrayToReader.java
+26.06.2020  12:51               655 MyFileFilter.java
+26.06.2020  12:51               262 MyFileLastModified.java
+26.06.2020  12:51             1'318 MyFileOperations.java
+26.06.2020  12:51               855 MyFilePermissions.java
+26.06.2020  12:51             1'021 MyFileReadBybis.java
+26.06.2020  12:51               230 MyFileUrl.java
+26.06.2020  12:51               796 MyFileXmlStore.java
+26.06.2020  12:51               676 MyFilteredFileList.txt
+26.06.2020  12:51               943 MyIstoBr.java
+26.06.2020  12:51             2'817 MyObjectFileStore.java
+26.06.2020  12:51               799 MyPropertyFileStore.java
+26.06.2020  12:51             1'180 MyTempDelete.java
+26.06.2020  12:51               836 MyTempFileWrite.java
+26.06.2020  12:51               513 MyTmpFile.java
+26.06.2020  12:51               828 ReadFromConsole.java
+26.06.2020  12:51               748 ReadLinesFromFile.java
+26.06.2020  12:51             1'067 WriteToFile.java
+              25 File(s)         21'987 bytes
+
+ Directory of C:\Users\BrunoHofstetter\Documents\GitHub\BBW-Repository01-PUBLIC\Java_JDBC_Examples
+
+26.06.2020  12:12    <DIR>          .
+26.06.2020  12:12    <DIR>          ..
+26.06.2020  12:12             1'611 @README.txt
+26.06.2020  12:12               248 @README2.txt
+26.06.2020  12:12               849 JdbcConnection.java
+26.06.2020  12:12             1'639 MyAutoGeneratedKeys.java
+26.06.2020  12:12             1'348 MyBatchCallableStatement.txt
+26.06.2020  12:12             1'733 MyBatchPreparedStmt.java
+26.06.2020  12:12             1'635 MyBlobInsert.java
+26.06.2020  12:12             2'176 MyBlobRead.java
+26.06.2020  12:12               806 MyConnWithProperties.java
+26.06.2020  12:12             1'487 MyCursorCallableStmt.java
+26.06.2020  12:12             1'239 MyDatabaseMetadata.java
+26.06.2020  12:12             1'658 MyExecuteMethod.java
+26.06.2020  12:12             1'443 MyFunctionCallableStmt.java
+26.06.2020  12:12             1'446 MyOutparmCallableStmt.java
+26.06.2020  12:12             1'484 MyPreparedStatement.java
+26.06.2020  12:12             1'656 MyPrepStmtResltSet.java
+26.06.2020  12:12             1'291 MyQueryUpdate.java
+26.06.2020  12:12             1'194 MyResultSetEx.java
+26.06.2020  12:12             1'507 MyResultSetMetadata.java
+26.06.2020  12:12             1'748 MyScrollableResultSetEx.java
+26.06.2020  12:12             1'255 MySimpleCallableStatement.java
+26.06.2020  12:12             1'685 MyStatementBatchUpdate.java
+26.06.2020  12:12             1'533 MyUpdatableResultSet.java
+              23 File(s)         32'671 bytes
+
+     Total Files Listed:
+             143 File(s)        112'719 bytes
+             212 Dir(s)  76'544'552'960 bytes free

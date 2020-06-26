@@ -1,0 +1,32 @@
+2020-06-19T05:31:47.531Z - info: [ui] Executing getConfigValueInPath: git config -z protocol.version (took 3.998s)
+2020-06-19T05:31:47.657Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 10.235s)
+2020-06-19T05:31:52.838Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 5.300s)
+2020-06-19T05:35:27.654Z - info: [ui] [BranchPruner] Last prune took place in 3 minutes - skipping
+2020-06-19T06:04:34.767Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.016s)
+2020-06-19T06:37:13.844Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.090s)
+2020-06-19T07:08:01.863Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T07:09:52.809Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.089s)
+2020-06-19T07:42:32.913Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.167s)
+2020-06-19T08:15:11.949Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.203s)
+2020-06-19T08:47:50.988Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.200s)
+2020-06-19T09:20:30.058Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.318s)
+2020-06-19T09:53:08.808Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.056s)
+2020-06-19T10:25:49.174Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.142s)
+2020-06-19T10:58:28.112Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.080s)
+2020-06-19T11:08:02.938Z - info: [ui] [BranchPruner] Last prune took place in 20 hours - skipping
+2020-06-19T11:58:33.608Z - info: [ui] Executing getConfigValueInPath: git config -z protocol.version (took 2.370s)
+2020-06-19T11:58:36.938Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.330s)
+2020-06-19T13:31:29.541Z - info: [ui] Executing getConfigValueInPath: git config -z protocol.version (took 1.140s)
+2020-06-19T13:31:29.592Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.461s)
+2020-06-19T13:31:32.722Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.180s)
+2020-06-19T13:53:41.738Z - warn: [ui] getFetchPollInterval: failed for fc039393/myLocalRepository2020
+TypeError: Failed to fetch
+2020-06-19T13:53:44.816Z - warn: [ui] fetchRepository: an error occurred for 'fc039393/myLocalRepository2020'
+TypeError: Failed to fetch
+2020-06-19T14:37:06.269Z - info: [ui] Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.544s)
+2020-06-19T14:37:09.278Z - warn: [ui] fetchRepository: an error occurred for 'fc039393/myLocalRepository2020'
+TypeError: Failed to fetch
+2020-06-19T14:37:12.439Z - warn: [ui] fetchRepository: an error occurred for 'fc039393/myLocalRepository2020'
+TypeError: Failed to fetch
+2020-06-19T14:37:12.452Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: myLocalRepository2020 - fc039393 (has token)
+2020-06-19T14:37:18.229Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.542s)
